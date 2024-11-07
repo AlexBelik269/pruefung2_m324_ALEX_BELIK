@@ -33,7 +33,7 @@ jobs:
         uses: actions/dependency-review-action@v2
 
       - name: AI Code Review Action
-        uses: freeedcom/ai-codereviewer@v2.7.0
+        uses: AlexBelik269/ai-codereviewer@v2.7.0
         with:
           OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
           open_ai_model: gpt-3.5-turbo
