@@ -1,0 +1,1 @@
+Die Aktion Review Action sucht in der Codebasis nach veralteten oder anfälligen Abhängigkeiten. Diese Aktion trägt dazu bei, ein sicheres und aktuelles Projekt aufrechtzuerhalten, indem Abhängigkeiten identifiziert werden, die möglicherweise aktualisiert werden müssen, und verbessert den CI/CD-Prozess, indem Codequalität und -sicherheit sichergestellt werden.

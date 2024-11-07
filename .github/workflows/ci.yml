@@ -28,3 +28,6 @@ jobs:
 
       - name: Run tests
         run: npm test
+
+      - name: Dependency Review
+        uses: actions/dependency-review-action@v2
